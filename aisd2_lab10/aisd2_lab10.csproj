@@ -7,10 +7,10 @@
 
   <ItemGroup>
     <Reference Include="Graph">
-      <HintPath>..\..\..\..\Desktop\aisd2\Bibiloteka Graph (studenci)\Graph.dll</HintPath>
+      <HintPath>Graph.dll</HintPath>
     </Reference>
     <Reference Include="TestSet">
-      <HintPath>..\..\..\..\Desktop\aisd2\TestSet.dll</HintPath>
+      <HintPath>TestSet.dll</HintPath>
     </Reference>
   </ItemGroup>
 
